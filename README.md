@@ -1,10 +1,3 @@
-# Franco Velazco
-
-Software engineer working in enterprise trading systems in Perth, WA.  
-I like understanding systems properly before pretending I do.
-
----
-
 ## Current Projects
 
 ### 🧠 Dev-Brain (Ongoing)
@@ -15,16 +8,15 @@ It isn’t meant to “finish.”
 It evolves as I go.
 
 **Focus:**
-- Knowledge systems
+- Connecting concepts across domains
 - Technical notes
 - Framework building
-- Connecting concepts across domains
 
 ---
 
 ### 🌐 PulsePost (Refactoring Phase)
 
-A full-stack web application built to understand how modern abstractions sit on top of core web fundamentals.
+A full-stack web application built intentionally without frameworks to understand the fundamentals modern stacks abstract away.
 
 **Tech:**
 - Vanilla HTML, CSS, and JavaScript (intentionally)
@@ -52,31 +44,27 @@ Currently redesigning it with production standards in mind.
 
 ## Technical Focus
 
-**Backend**
+**Application Development**
 - .NET
 - C#
-- REST APIs
+- TypeScript
+- RESTful APIs
+- React
 
 **Data**
+- SQL
 - Oracle Database
 - Microsoft SQL Server
-- PowerBi
+- Relational data modelling
 
-**Frontend**
-- React
-- JavaScript
-- HTML
-- CSS
-
-**Cloud & Services**
+**Cloud & Platforms**
 - Microsoft Azure
 - Firebase
 - Authentication (JWT / session-based)
 - Real-time databases
 
-**Enterprise Exposure**
-- SAP integrations
-- Production system environments
+**Analytics**
+- Power BI
 
 ---
 
@@ -84,5 +72,5 @@ Currently redesigning it with production standards in mind.
 
 Currently focused on:
 - Strengthening backend and data fundamentals
-- Designing systems intentionally, not reactively
 - Compounding technical depth over time
+- Shipping the portfolio page. Eventually...
