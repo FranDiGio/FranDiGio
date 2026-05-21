@@ -7,11 +7,6 @@ An Obsidian knowledge graph to structure how I think, learn, and connect tech id
 It isn’t meant to “finish.”  
 It evolves as I go.
 
-**Focus:**
-- Connecting concepts across domains
-- Technical notes
-- Framework building
-
 ---
 
 ### 🌐 PulsePost (Refactoring Phase)
@@ -23,10 +18,6 @@ A social-style web application built intentionally without frameworks to underst
 - Firebase
 - Authentication
 - Real-time data handling
-
-It worked.  
-Then I realised parts of it needed stronger structure before going live.  
-Currently redesigning it with production standards in mind.
 
 ---
 
